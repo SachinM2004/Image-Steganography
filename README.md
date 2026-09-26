@@ -246,7 +246,7 @@ This project helped me understand:
 **Sachin Maralabavi**
 
 - 📧 Email: sachinmaralabavimaralabavi@gmail.com
-- 💻 GitHub: 
+- 💻 GitHub: https://github.com/SachinM2004/Image-Steganography.git
 - 🔗 LinkedIn: www.linkedin.com/in/sachin-maralabavi-94b871399
 
 ---
