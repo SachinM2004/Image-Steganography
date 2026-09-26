@@ -1,0 +1,10 @@
+Secret Message Unlocked!
+
+Every pixel has a story.
+This image hides data using the Least Significant Bit (LSB) technique.
+
+No visible distortion.
+No data loss.
+Only secure communication.
+
+Created by Sudarshan Jadhav.
